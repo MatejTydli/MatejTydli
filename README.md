@@ -3,7 +3,6 @@ I'm Matěj Tydlitát and I'm currently:
 - Student
 - using moustly linux
 - long practice with C#
-- :seedling: working at [simple_chess](https://github.com/MatejTydli/simple_chess)
 - :computer: learning basic of cyber security
 - :crab: getting better at Rust
 
